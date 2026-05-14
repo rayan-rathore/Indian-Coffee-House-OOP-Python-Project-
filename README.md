@@ -45,6 +45,7 @@ Console-based brewing progress simulation for a better user experience.
 The project is divided into multiple classes and modules to keep responsibilities separate and the code easier to maintain.
 
 Classes
+
 *MenuItem*
 -Represents a single coffee drink and its required ingredients.
 
