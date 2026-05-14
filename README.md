@@ -37,7 +37,8 @@ Maintenance mode for restocking machine ingredients.
 
 ⏳ Brewing Animation
 Console-based brewing progress simulation for a better user experience.
-------------------------------------------------
+
+----------------------------------------
 
 🛠️ Project Structure
 
@@ -63,6 +64,7 @@ Handles:
 coin processing
 transaction validation
 profit tracking
+
 ----------------------------------------
 
 🧠 What I Learned
