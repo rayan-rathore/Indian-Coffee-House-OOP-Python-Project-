@@ -17,16 +17,22 @@ Modular Design
 This project helped me understand how larger Python programs can be organized into reusable and scalable components.
 
 🌟 Features
+
 ☕ 7 Indian Coffee Varieties
 Includes ingredients like jaggery, ginger, cardamom, cinnamon, and pepper.
+
 🧱 Object-Oriented Architecture
 Separate classes handle menu management, coffee preparation, and payment processing.
+
 📦 Inventory Management
 Tracks 10+ ingredients and checks resource availability before preparing drinks.
+
 💰 Indian Currency Payment System
 Accepts ₹ coins and calculates change automatically.
+
 🔄 Refill System
 Maintenance mode for restocking machine ingredients.
+
 ⏳ Brewing Animation
 Console-based brewing progress simulation for a better user experience.
 
