@@ -78,3 +78,9 @@ Modular code organization
 Managing program state
 Real-world project structuring
 Debugging larger programs
+
+<img width="1025" height="1034" alt="Screenshot 2026-05-14 163630" src="https://github.com/user-attachments/assets/2e773456-c7d7-49cb-88a8-9887b79025bc" />
+<img width="1062" height="1032" alt="Screenshot 2026-05-14 163659" src="https://github.com/user-attachments/assets/8669a4eb-bb66-4431-aef2-53047c7e411a" />
+<img width="1110" height="1037" alt="Screenshot 2026-05-14 163718" src="https://github.com/user-attachments/assets/c479837e-c8f8-4929-8009-0df396d9043e" />
+<img width="970" height="560" alt="Screenshot 2026-05-14 163733" src="https://github.com/user-attachments/assets/3edeb0a3-1081-4dc6-988a-25ff929684ce" />
+
