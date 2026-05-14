@@ -25,7 +25,8 @@ def main():
             money_machine.report()
 
 
-        elif choice == "refill" or "Refill":
+
+        elif choice == "refill":
             coffee_maker.refill_resources()
 
         # handle the normal coffee order
