@@ -73,10 +73,15 @@ Handles:
 This project helped me practice and understand:
 
 Object-Oriented Programming in Python
+
 Class relationships and responsibilities
+
 Modular code organization
+
 Managing program state
+
 Real-world project structuring
+
 Debugging larger programs
 
 <img width="1025" height="1034" alt="Screenshot 2026-05-14 163630" src="https://github.com/user-attachments/assets/2e773456-c7d7-49cb-88a8-9887b79025bc" />
