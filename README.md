@@ -45,21 +45,31 @@ The project is divided into multiple classes and modules to keep responsibilitie
 
 *Classes*
 MenuItem
+
 Represents a single coffee drink and its required ingredients.
 
 *Menu*
+
 Stores and manages all available coffee drinks.
 
 *CoffeeMaker*
+
 Handles:
+
 ingredient checking
+
 brewing logic
+
 inventory updates
 
 *MoneyMachine*
+
 Handles:
+
 coin processing
+
 transaction validation
+
 profit tracking
 ----------------------------------------
 
