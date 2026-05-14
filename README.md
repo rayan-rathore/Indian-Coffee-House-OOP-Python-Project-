@@ -14,6 +14,8 @@ Encapsulation
 Single Responsibility Principle
 Modular Design
 
+--------------------------------------
+
 This project helped me understand how larger Python programs can be organized into reusable and scalable components.
 
 🌟 Features
@@ -35,6 +37,7 @@ Maintenance mode for restocking machine ingredients.
 
 ⏳ Brewing Animation
 Console-based brewing progress simulation for a better user experience.
+------------------------------------------------
 
 🛠️ Project Structure
 
@@ -58,6 +61,7 @@ Handles:
 coin processing
 transaction validation
 profit tracking
+----------------------------------------
 
 🧠 What I Learned
 
